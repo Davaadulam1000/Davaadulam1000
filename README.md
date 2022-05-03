@@ -1,12 +1,8 @@
 
-<!---
-zagibest/zagibest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Davaadulam</h1>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zagibest&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=davaadulam1000&color=blueviolet&style=flat">
 </p>
 	
 ### 🛠 &nbsp;Languages and Tools
@@ -35,8 +31,8 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/zagibest">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zagibest&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Davaadulam1000">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Davaadulam1000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Davaadulam1000&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
