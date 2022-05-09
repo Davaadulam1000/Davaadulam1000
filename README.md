@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I am Davaadulam.Call me Dabuna ! 
+<h1 align="center">Hi 👋 I am Davaadulam. Call me Dabuna ! 
 I am currently a thirth-year software engineer major at National University of Mongolia.</h1>
 	
 <p align="center">
